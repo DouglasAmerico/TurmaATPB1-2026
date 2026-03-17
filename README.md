@@ -1,6 +1,6 @@
-# 🚀 Repositório da Turma B - IA & Engenharia de Software | CEI
+# 🚀 Repositório da Turma B - ADS | CEI
 
-Bem-vindo(a) ao repositório oficial da **Turma B** do curso de **Inteligência Artificial e Engenharia de Software** do **CEI** (Centro de Educação Integrada)! 
+Bem-vindo(a) ao repositório oficial da **Turma B** do curso de **ADS (Análise e Desenvolvimento de Sistemas)** do **CEI** (Centro de Educação Integrada)! 
 
 Este espaço foi criado para armazenar, organizar e compartilhar todos os nossos códigos, exemplos e projetos desenvolvidos ao longo da nossa jornada de aprendizado.
 
@@ -8,7 +8,7 @@ Este espaço foi criado para armazenar, organizar e compartilhar todos os nossos
 
 ## 📚 Disciplina: Técnicas de Programação Básica 1 (TPB1)
 
-O foco principal deste repositório é a disciplina de **Técnicas de Programação Básica 1**. Aqui, daremos nossos primeiros passos no mundo da programação, construindo uma base sólida para nos tornarmos excelentes Engenheiros(as) de Software e Especialistas em Inteligência Artificial.
+O foco principal deste repositório é a disciplina de **Técnicas de Programação Básica 1**. Aqui, daremos nossos primeiros passos no mundo da programação, construindo uma base sólida para nos tornarmos excelentes Analistas e Desenvolvedores(as) de Sistemas.
 
 ### O que você vai encontrar por aqui?
 - 💻 **Exercícios Práticos:** Códigos criados em aula para fixar o conteúdo.

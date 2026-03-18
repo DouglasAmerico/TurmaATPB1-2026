@@ -1,4 +1,4 @@
-# 🚀 Repositório da Turma B - ADS | CEI
+# 🚀 Repositório da Turma A - ADS | CEI
 
 Bem-vindo(a) ao repositório oficial da **Turma B** do curso de **ADS (Análise e Desenvolvimento de Sistemas)** do **CEI** (Centro de Educação Integrada)! 
 
